@@ -14,7 +14,7 @@ const ReviewsPage = () => {
     },
     {
       id: 2,
-      name: "Michael Rodriguez",
+      name: "Alex Karisa",
       role: "Entrepreneur",
       rating: 5,
       date: "March 10, 2025",
@@ -24,7 +24,7 @@ const ReviewsPage = () => {
     },
     {
       id: 3,
-      name: "Emma Thompson",
+      name: "David James",
       role: "Therapist",
       rating: 5,
       date: "March 8, 2025",
