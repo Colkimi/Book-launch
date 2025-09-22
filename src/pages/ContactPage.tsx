@@ -159,7 +159,7 @@ const ContactPage = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                      <p className="text-gray-600">hello@yourname.com</p>
+                      <p className="text-gray-600">colkimib@gmail.com</p>
                       <p className="text-sm text-gray-500">I typically respond within 24-48 hours</p>
                     </div>
                   </div>
