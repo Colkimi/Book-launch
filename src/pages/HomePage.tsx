@@ -68,7 +68,7 @@ const HomePage = () => {
                 className="text-xl text-gray-600 mb-8 leading-relaxed"
               >
                 Discover groundbreaking insights from two renowned authors. Pastor Jackson Muhoti combines 
-                cutting-edge neuroscience with practical applications, while Marcus Thompson brings 
+                cutting-edge neuroscience with practical applications, while Pastor Faith brings 
                 ancient wisdom to modern challenges.
               </motion.p>
               

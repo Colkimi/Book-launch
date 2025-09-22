@@ -20,9 +20,9 @@ export const authors = [
   },
   {
     id: 2,
-    name: "Marcus Thompson",
+    name: "Pastor Faith",
     title: "Life Transformation Coach",
-    bio: "Marcus Thompson is a certified life coach and motivational speaker who has dedicated his career to helping people unlock their potential. His unique blend of practical wisdom and spiritual insight has made him a sought-after mentor.",
+    bio: "Pastor Faith is a certified life coach and motivational speaker who has dedicated his career to helping people unlock their potential. His unique blend of practical wisdom and spiritual insight has made him a sought-after mentor.",
     image: "/api/placeholder/300/300",
     socialLinks: {
       twitter: "https://twitter.com/marcusthompson",
@@ -117,7 +117,7 @@ export const books = [
     title: "The Warrior's Path",
     subtitle: "Ancient Wisdom for Modern Warriors",
     authorId: 2,
-    authorName: "Marcus Thompson",
+    authorName: "Pastor Faith",
     description: "Discover timeless principles of strength, courage, and resilience that will help you navigate life's challenges with grace and power.",
     price: { digital: 16.99, hardcover: 21.99 },
     coverColor: "from-gray-800 to-gray-900",

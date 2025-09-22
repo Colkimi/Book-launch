@@ -238,7 +238,7 @@ const BooksPage = () => {
         <div className="container-max">
           <motion.div variants={itemVariants} className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Marcus Thompson's Masterpiece
+              Pastor Faith's Masterpiece
             </h2>
             <p className="text-xl text-gray-600">
               Ancient wisdom for the modern warrior
