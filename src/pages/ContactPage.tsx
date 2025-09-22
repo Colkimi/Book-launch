@@ -181,7 +181,7 @@ const ContactPage = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Location</h3>
-                      <p className="text-gray-600">San Francisco, CA</p>
+                      <p className="text-gray-600">Kutus CA, Kirinyaga</p>
                       <p className="text-sm text-gray-500">Available for virtual and in-person events</p>
                     </div>
                   </div>
