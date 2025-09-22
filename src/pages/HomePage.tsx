@@ -67,7 +67,7 @@ const HomePage = () => {
                 variants={itemVariants}
                 className="text-xl text-gray-600 mb-8 leading-relaxed"
               >
-                Discover groundbreaking insights from two renowned authors. Dr. Sarah Mitchell combines 
+                Discover groundbreaking insights from two renowned authors. Pastor Jackson Muhoti combines 
                 cutting-edge neuroscience with practical applications, while Marcus Thompson brings 
                 ancient wisdom to modern challenges.
               </motion.p>
