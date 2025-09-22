@@ -170,7 +170,7 @@ const ContactPage = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Speaking Inquiries</h3>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
+                      <p className="text-gray-600">+254 (7) 89-471-918</p>
                       <p className="text-sm text-gray-500">For event bookings and speaking engagements</p>
                     </div>
                   </div>
